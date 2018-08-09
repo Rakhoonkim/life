@@ -1,2 +1,2 @@
 # life
-I am beginer
+I am a beginer
